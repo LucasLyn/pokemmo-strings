@@ -11,3 +11,11 @@ Features;
 TO-DO;
 - Add Sinnoh and Unova healing dialog boxes.
 - Add Johto healing dialog boxes.
+
+# How to use
+## PC
+Simply rename the *strings_en.xml* file in data/strings to *BACKUP - strings_en.xml*, and add my strings file to the folder instead.
+
+## Mobile
+Open Client Management, and import the XML file.
+To clear, open the menu again, and press the clear button.
