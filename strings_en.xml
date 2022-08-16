@@ -4414,7 +4414,7 @@
   <string id="16780100">­</string>
   <string id="16780102">Your {STRING_0} will be sent to the PC.\nIs that okay?</string>
   <string id="16780103">­</string>
-  <string id="16780104">Come back when you are ready.</string>
+  <string id="16780104">­</string>
   <string id="16780105">Your PC does not have enough room.\nYou can't deposit all of your {STRING_0}.\n\nCome back when you are ready.</string>
   <string id="16780107">You do not currently have the\nrequired ROM for this function.\n\nPlease add the required rom and\nrestart the PokeMMO client.</string>
   <string id="16780108">Sorry, the ferry service isn't available\nat this time.\n\nYou need at least {00} badges to travel to a\nnew region.</string>

@@ -1,6 +1,6 @@
 # pokemmo-strings
-## Current version: 1.1
-A strings_en file to be used with PokeMMO.
+## Current version: v1.2
+A custom strings_en file to be used with PokeMMO.
 
 
 Features;

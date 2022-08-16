@@ -10,3 +10,5 @@
 - Cuts down Sweet Scent recover PP dialog box to be faster.
 - Slightly cut's down Frisk dialog boxes to be faster.
 
+1.2
+- Cut down on Region change dialog box when not selecting a region.

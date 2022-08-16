@@ -26,6 +26,7 @@
 # Region change IDs
 16780100
 16780103
+16780104
 
 # Out-of-battle move IDs
 16780155 # Ocarina
