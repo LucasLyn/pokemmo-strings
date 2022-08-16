@@ -34,18 +34,19 @@ To clear, open the menu again, and press the clear button.
 
 # Demonstation GIFs
 Healing at PokeCenter
-
+![Healing](https://github.com/LucasLyn/pokemmo-strings/blob/main/gifs/Healing.gif)
 
 Using an Ocarina
-
+![](https://github.com/LucasLyn/pokemmo-strings/blob/main/gifs/Ocarina.gif)
 
 Using an out-of-battle move (Surf)
-
+![](https://github.com/LucasLyn/pokemmo-strings/blob/main/gifs/Out-of-battle_move.gif)
 
 Switching Regions
-
+![](https://github.com/LucasLyn/pokemmo-strings/blob/main/gifs/Region_change.gif)
 
 Checking for Swarms
-
+![](https://github.com/LucasLyn/pokemmo-strings/blob/main/gifs/Swarm_check.gif)
 
 Recovering PP of Sweet Scent
+![](https://github.com/LucasLyn/pokemmo-strings/blob/main/gifs/Sweet_Scent_PP_Recover.gif)
