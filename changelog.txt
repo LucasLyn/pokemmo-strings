@@ -1,0 +1,12 @@
+1.0
+- Considerably cuts down on breeding dialog boxes, saving you time (does *not* remove ball prompt).
+- Considerably cuts down on healing dialog boxes (Kanto and Hoenn).
+- Changes all TV dialogs to "No swarm :(", when a swarm isn't active.
+- Cuts down ocarina dialog boxes to be faster.
+
+1.1
+- Cuts down Region change dialog boxes down to be faster.
+- Slightly cuts down on out-of-battle move dialog boxes to be faster (Gen 3 HMs only, except Flash).
+- Cuts down Sweet Scent recover PP dialog box to be faster.
+- Slightly cut's down Frisk dialog boxes to be faster.
+

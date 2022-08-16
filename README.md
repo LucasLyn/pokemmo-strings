@@ -1,17 +1,23 @@
 # pokemmo-strings
-## Current version: 1.0
+## Current version: 1.1
 A strings_en file to be used with PokeMMO.
 
 
 Features;
 - Considerably cuts down on breeding dialog boxes, saving you time (does *not* remove ball prompt).
 - Considerably cuts down on healing dialog boxes (Kanto and Hoenn).
-- Changes all TV dialogs to "No swarm :(", when a swarm isn't active.
+- Changes all TV dialogs to "*No swarm :(*", when a swarm isn't active.
 - Cuts down ocarina dialog boxes to be faster.
+- Cuts down Region change dialog boxes down to be faster.
+- Slightly cuts down on out-of-battle move dialog boxes to be faster (Gen 3 HMs only).
+- Cuts down Sweet Scent recover PP dialog box to be faster.
+- Slightly cut's down Frisk dialog boxes to be faster.
 
 TO-DO;
 - Add Sinnoh and Unova healing dialog boxes.
 - Add Johto healing dialog boxes.
+- Add support for missing Gen 3 out-of-battle moves.
+- Add support for Gen 4+ out-of-battle moves.
 
 # How to use
 ## PC
