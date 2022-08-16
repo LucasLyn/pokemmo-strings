@@ -19,3 +19,7 @@ Simply rename the *strings_en.xml* file in data/strings to *BACKUP - strings_en.
 ## Mobile
 Open Client Management, and import the XML file.
 To clear, open the menu again, and press the clear button.
+
+
+# Known bugs
+- A dialog box in Hoenn still shows the original text. I have no idea why this happens.
