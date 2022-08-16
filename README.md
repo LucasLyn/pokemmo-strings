@@ -30,3 +30,22 @@ To clear, open the menu again, and press the clear button.
 
 # Known bugs
 - A dialog box in Hoenn still shows the original text. I have no idea why this happens.
+
+
+# Demonstation GIFs
+Healing at PokeCenter
+
+
+Using an Ocarina
+
+
+Using an out-of-battle move (Surf)
+
+
+Switching Regions
+
+
+Checking for Swarms
+
+
+Recovering PP of Sweet Scent
